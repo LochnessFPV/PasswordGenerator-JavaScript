@@ -1,1 +1,2 @@
 # PasswordGenerator-JavaScript
+# PasswordGenerator-JavaScript
